@@ -33,7 +33,7 @@ function translate_cn($string) {
       'footer_rss_feed' => 'RSS Feed',
       'footer_faq' => '常见问题解答',
       'email_new_donation_subject' => '[Kuno] New {DONATION} XMR donation to #{GUID}',
-      'email_new_donation_body' => 'Your kuno received a new donation!
+      'email_new_donation_body' => '你的库诺收到了一笔新的捐款!
           <br><br>Kuno: {TITLE}
           <br>Donation: {DONATION} XMR
           <br>Date: {DATE}
@@ -42,54 +42,54 @@ function translate_cn($string) {
           <br>Visit your kuno: https://kuno.anne.media/{TYPE}/{GUID}/
           <br><br>Deactivate email notifications here:
           <br>https://kuno.anne.media/edit-fundraiser/{GUID}/',
-      'email_reset_password_subject' => '[Kuno] Reset password',
-      'email_reset_password_body' => 'Visit this link to reset your password: {URL} or enter this code: {CODE} (Valid for 24 hours)',
-      'homepage_title' => 'Easy fundraising <br> for everyone',
-      'homepage_subtitle' => 'Raise money or donate to a good cause with Monero',
-      'homepage_point1' => 'Start a kuno for free',
-      'homepage_point2' => 'Receive Monero (which you can exchange to cash)',
-      'homepage_point3' => 'Zero fees, works globally, no bank account required',
-      'homepage_button_start_fundraiser' => 'Start a kuno',
-      'homepage_button_browse_fundraisers' => 'Browse kuno',
-      'homepage_bar' => 'The fair alternative to GoFundMe and Kickstarter',
-      'homepage_heading_browse_fundraisers' => 'Browse {AMOUNT} kuno',
-      'homepage_heading_total_raised' => 'Over {AMOUNT} XMR raised!',
-      'homepage_top_categories' => 'Top Categories',
-      'homepage_recent_donations' => 'Recent Donations',
-      'homepage_all_categories' => 'All categories',
-      'homepage_launch_in_one_click' => 'Launch your kuno in 1 click',
-      'homepage_get_started_free' => 'Get started for free',
-      'homepage_info_heading1' => 'Monero is cash for the internet',
+      'email_reset_password_subject' => '[Kuno] 重置密码',
+      'email_reset_password_body' => '请访问此链接重置密码: {URL} 或者输入这个代码: {CODE} (24小时有效)',
+      'homepage_title' => '简单的筹款 <br> 对每个人',
+      'homepage_subtitle' => '用门罗币筹集资金或为慈善事业捐款',
+      'homepage_point1' => '免费创建一个库诺',
+      'homepage_point2' => '收到门罗币  (您可以兑换成现金)',
+      'homepage_point3' => '零费用, 在全球运行 , 不需要银行账户',
+      'homepage_button_start_fundraiser' => '开始一个库诺',
+      'homepage_button_browse_fundraisers' => '浏览库诺',
+      'homepage_bar' => 'GoFundMe和Kickstarter的公平替代品',
+      'homepage_heading_browse_fundraisers' => '浏览 {AMOUNT} 库诺',
+      'homepage_heading_total_raised' => '募集超过了 {AMOUNT} 个XMR !',
+      'homepage_top_categories' => '热门分类',
+      'homepage_recent_donations' => '最近捐款',
+      'homepage_all_categories' => '全部分类 ',
+      'homepage_launch_in_one_click' => '一键启动您的库诺',
+      'homepage_get_started_free' => '免费开始',
+      'homepage_info_heading1' => '门罗币是互联网的现金',
       'homepage_info_description1' => '<p class="monero-info-p-bold kuno">
-                  Monero is a fast and secure way to send and receive money online.
+                  门罗币是一种快速安全的在线汇款和收款方式.
   </p>
                   <p class="monero-info-p kuno">
-                  No bank account, application or government ID is required. Simply download a wallet for your phone or computer to send and receive money worldwide with one click.
+                 无需银行账户、申请或政府身份证。只需为您的手机或电脑下载一个钱包，即可一键在全球范围内汇款和收款 .
   </p>
                   <p class="monero-info-p kuno">
-                  Monero’s simplicity and accessibility makes it an ideal payment method for online stores, remote work, remittances, tips, fundraisers and more.
+                  门罗币的简单性和可访问性使其成为在线商店、远程工作、汇款、小费、筹款活动等的理想支付方式.
   </p>',
-      'homepage_link_download_mobile' => 'Download for mobile',
-      'homepage_link_download_desktop' => 'Download for desktop',
-      'homepage_info_heading2' => 'Uncensorable donations',
+      'homepage_link_download_mobile' => '下载手机版',
+      'homepage_link_download_desktop' => '下载桌面版',
+      'homepage_info_heading2' => '未经审查的捐款',
       'homepage_info_description2' => '<p class="monero-info-p-bold kuno">
-                  With Monero, your money belongs to you.
+                  有了门罗币，你的钱就属于你了.
   </p>
                   <p class="monero-info-p kuno">
-                  Monero is peer-to-peer software and doesn’t rely on third parties or corporations. Transactions can’t be censored, funds can’t be frozen and users can’t be deplatformed.
+                  门罗币是点对点软件，不依赖第三方或公司。交易不能被审查，资金不能被冻结，用户不能被去平台化.
   </p>
                   <p class="monero-info-p kuno">
-                  Whether you raise funds with Monero or donate to a good cause, you can have peace of mind that the recipient receives 100% of the donation.
+                  无论您是用门罗币筹集资金还是捐赠给公益事业，您都可以放心，接受者会收到 100% 的捐款.
   </p>',
-      'homepage_link_official_website' => 'Official website',
-      'homepage_link_overview' => 'Overview',
-      'homepage_link_buy_monero' => 'Buy Monero',
-      'homepage_info_heading3' => 'Spend it anywhere',
+      'homepage_link_official_website' => '官方网站',
+      'homepage_link_overview' => '概述',
+      'homepage_link_buy_monero' => '购买门罗币',
+      'homepage_info_heading3' => '随处消费',
       'homepage_info_description3' => '<p class="monero-info-p-bold kuno">
-                  Exchange Monero to cash, shop online or pay bills.
+                  将门罗币兑换成现金、在线购物或支付账单.
   </p>
                   <p class="monero-info-p kuno">
-                  It’s easy to exchange Monero to physical cash with <a href="https://localmonero.co">LocalMonero</a>, <a href="https://bisq.network">Bisq</a> or a <a href="https://coinatmradar.com">Crypto ATM</a> (no bank account required).
+                  使用 <a href="https://localmonero.co">LocalMonero</a>, <a href="https://bisq.network">Bisq</a> 或 <a href="https://coinatmradar.com">Crypto ATM</a> (无需银行账户)将门罗币兑换成实物现金很容易.
   </p>
                   <p class="monero-info-p kuno">
                   Marketplaces like <a href="https://moneromarket.io">MoneroMarket</a> and directories like <a href="https://monerica.com">Monerica</a> and <a href="https://acceptedhere.io">AcceptedHere</a> help you to buy what you need with Monero.
